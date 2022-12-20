@@ -79,7 +79,7 @@ export default function Home() {
             <div className="flex">
             <Sidebar />
             <div className="min-w-screen min-h-screen md:w-10/12  flex items-center justify-center px-5 py-5">
-               {initialized && <StockChart info={graphData} />}
+               {/* {initialized && <StockChart info={graphData} />} */}
             </div>
             <div className=" mx-auto my-4 rounded-lg h-full">
             <div>
